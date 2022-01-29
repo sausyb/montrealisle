@@ -29,5 +29,6 @@ memoized-property
 termcolor
 
 # classmates packages
-nickpackage
-brahim_ml_project
+git+ssh://git@github.com/NickSzczerb/nickpackage
+git+ssh://git@github.com/brahim-el-merbouh/brahim_ml_project
+git+ssh://git@github.com/blueoverseas/dany
